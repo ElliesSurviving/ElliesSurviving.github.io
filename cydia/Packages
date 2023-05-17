@@ -5,7 +5,7 @@ version: 1.0
 Section: Applications
 Maintainer: Ellie
 Installed-Size: 48000
-Filename: elliessurviving.github.io/cydia/pool/cum.elliessurviving.oldloader_1.0_iphoneos-arm64.deb
+Filename: https://elliessurviving.github.io/cydia/pool/cum.elliessurviving.oldloader_1.0_iphoneos-arm64.deb
 Description: Old loader for palera1n devices
 
 
