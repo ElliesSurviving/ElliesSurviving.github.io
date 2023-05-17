@@ -1,7 +1,7 @@
 Package: cum.elliessurviving.oldloader
 Name: oldloader
 Architecture: iphoneos-arm64
-version: 1.0
+Version: 1.0
 Section: Applications
 Maintainer: Ellie
 Installed-Size: 48000
