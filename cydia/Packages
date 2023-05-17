@@ -1,11 +1,11 @@
 Package: cum.elliessurviving.oldloader
-Name: oldloader
+Name: OldLoader
 Architecture: iphoneos-arm64
-Version: 1.0
-Section: Applications
+Description: Old loader for palera1n devices
 Maintainer: Ellie
+Author: Ellie
+Section: Applications
+Depends: firmware (>= 15.0)
+Version: 1.0
 Installed-Size: 48000
 Filename: pool/cum.elliessurviving.oldloader_1.0_iphoneos-arm64.deb
-Description: Old loader for palera1n devices
-
-
