@@ -1,4 +1,5 @@
 Package: cum.elliessurviving.oldloader
+Name: oldloader
 Architecture: iphoneos-arm64
 version: 1.0
 Section: Applications
