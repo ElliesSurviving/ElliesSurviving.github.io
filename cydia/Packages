@@ -11,3 +11,17 @@ Section: Tweaks
 Description: testing
 Author: Ellie
 Name: test (pt4)
+
+Package: cum.elliessurviving.elliespfp
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Ellie
+Depends: firmware (>= 15.0)
+Filename: ./pool/cum.elliessurviving.elliespfp_0.0.1_iphoneos-arm64.deb
+Size: 98752
+SHA1: a0151395627ecb88b7c4b170ec15aa9071413754
+SHA256: 7ebb148eb62690f0caae87ab3ffbfcc2acfcfe34e44c70e5f2ba9b3b1e842e47
+Section: Themes
+Description: Snowboard theme that turns (almost) all ur icons into my beautiful pfp!
+Author: Ellie
+Name: Elliespfp
