@@ -3,11 +3,11 @@ Version: 0.1
 Architecture: iphoneos-arm64
 Maintainer: Ellie
 Depends: firmware (>= 15.0)
-Filename: https://elliessurviving.github.io/cydia/pool/cum.elliessurviving.test_0.1_iphoneos-arm64.deb
+Filename: ./pool/cum.elliessurviving.test_0.1_iphoneos-arm64.deb
 Size: 9
 SHA1: 876b6c96bbbac179d4b7a0d4951372c8e10fc54e
 SHA256: e0a6ecad28bd3b06fcf4f26c3edbdda1a953c9699d5b8e72d2fc92246fe6df96
 Section: Tweaks
 Description: testing
 Author: Ellie
-Name: test (pt2)
+Name: test (pt3)
