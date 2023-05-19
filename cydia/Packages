@@ -25,3 +25,17 @@ Section: Themes
 Description: Snowboard theme that turns (almost) all ur icons into my beautiful pfp!
 Author: Ellie
 Name: Elliespfp
+
+Package: cum.elliessurviving.uwugoose
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Ellie
+Depends: firmware (>= 12.0), com.pixelomer.mobilegoose
+Filename: ./pool/cum.elliessurviving.uwugoose_0.0.1_iphoneos-arm64.deb
+Size: 964
+SHA1: 2eb9b254bd84529021ec3505efe30c5c92329367
+SHA256: 7cf317852c68fc2e4e0a51065c887dafd309cb776fe721d3a96689107ef6bf45
+Section: Addons
+Description: Adds UwU catgirl notes to MobileGoose
+Author: Ellie
+Name: UwUgoose
