@@ -1,1 +1,13 @@
-
+Package: com.pookjw.blurredpreferences
+Version: 1.1-58+debug
+Architecture: iphoneos-arm
+Maintainer: Jinwoo Kim
+Depends: firmware (>= 15.0)
+Filename: https://github.com/pookjw/BlurredPreferrences/releases/download/1.1/com.pookjw.blurredpreferences_1.1-58+debug_iphoneos-arm.deb
+Size: 8948
+SHA1: 49d6047d921734866e1346ef179a7ed06abc25b9
+SHA256: 4eb54d48e1ade1c00aabd329b6960fcf2cbefb760b3084adc319fc123653b7e7
+Section: Utilities
+Description: Hello World!
+Author: Jinwoo Kim
+Name: BlurredPreferences
