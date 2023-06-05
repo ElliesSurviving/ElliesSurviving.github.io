@@ -3,7 +3,7 @@ Version: 0.1
 Architecture: iphoneos-arm64
 Maintainer: Ellie
 Depends: firmware (>= 15.0)
-Filename: https://github.com/elliessurviving/repofiles/blob/main/arm64/cum.elliessurviving.test_0.1_iphoneos-arm64.deb
+Filename: https://github.com/elliessurviving/repofiles/raw/main/arm64/cum.elliessurviving.test_0.1_iphoneos-arm64.deb
 Size: 812
 SHA1: 876b6c96bbbac179d4b7a0d4951372c8e10fc54e
 SHA256: e0a6ecad28bd3b06fcf4f26c3edbdda1a953c9699d5b8e72d2fc92246fe6df96
@@ -17,7 +17,7 @@ Version: 0.0.1
 Architecture: iphoneos-arm64
 Maintainer: Ellie
 Depends: firmware (>= 15.0)
-Filename: https://github.com/elliessurviving/repofiles/blob/main/arm64/cum.elliessurviving.elliespfp_0.0.1_iphoneos-arm64.deb
+Filename: https://github.com/elliessurviving/repofiles/raw/main/arm64/cum.elliessurviving.elliespfp_0.0.1_iphoneos-arm64.deb
 Size: 98752
 SHA1: a0151395627ecb88b7c4b170ec15aa9071413754
 SHA256: 7ebb148eb62690f0caae87ab3ffbfcc2acfcfe34e44c70e5f2ba9b3b1e842e47
@@ -31,7 +31,7 @@ Version: 0.0.1
 Architecture: iphoneos-arm64
 Maintainer: Ellie
 Depends: firmware (>= 12.0), com.pixelomer.mobilegoose
-Filename: https://github.com/elliessurviving/repofiles/blob/main/arm64/cum.elliessurviving.uwugoose_0.0.1_iphoneos-arm64.deb
+Filename: https://github.com/elliessurviving/repofiles/raw/main/arm64/cum.elliessurviving.uwugoose_0.0.1_iphoneos-arm64.deb
 Size: 964
 SHA1: 2eb9b254bd84529021ec3505efe30c5c92329367
 SHA256: 7cf317852c68fc2e4e0a51065c887dafd309cb776fe721d3a96689107ef6bf45
@@ -45,8 +45,8 @@ Version: 0.1
 Architecture: iphoneos-arm
 Maintainer: Ellie
 Depends: firmware (>= 12.0)
-Filename: https://github.com/ElliesSurviving/repofiles/blob/main/arm/cum.elliessurviving.test_0.1_iphoneos-arm.deb
-Size: 141448
+Filename: https://github.com/ElliesSurviving/repofiles/raw/main/arm/cum.elliessurviving.test_0.1_iphoneos-arm.deb
+Size: 792
 SHA1: 3bb14af8386fbb7e337cdeaa7c72d5689157f84f
 SHA256: 0f1cb37e5814f8a7d4dd774ce5e28d79226886b6d06113da65735e6469acba1e
 Section: Tweaks
@@ -59,7 +59,7 @@ Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: Ellie
 Depends: firmware (>= 12.0)
-Filename: https://github.com/elliessurviving/repofiles/blob/main/arm/cum.elliessurviving.elliespfp_0.0.1_iphoneos-arm.deb
+Filename: https://github.com/elliessurviving/repofiles/raw/main/arm/cum.elliessurviving.elliespfp_0.0.1_iphoneos-arm.deb
 Size: 98688
 SHA1: 85e2fd4a7b78404cbd3ddd4066679fa312efb70e
 SHA256: e7ff1e8c92e2b18f5c05558479618018d9d47e98d693c7420b8124d4e89ff933
@@ -73,7 +73,7 @@ Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: Ellie
 Depends: firmware (>= 12.0), com.pixelomer.mobilegoose
-Filename: https://github.com/elliessurviving/repofiles/blob/main/arm/cum.elliessurviving.uwugoose_0.0.1_iphoneos-arm.deb
+Filename: https://github.com/elliessurviving/repofiles/raw/main/arm/cum.elliessurviving.uwugoose_0.0.1_iphoneos-arm.deb
 Size: 948
 SHA1: b9b9697f12b2862779f76273117e883161e5bdd6
 SHA256: dffc307735fe11502a779fa51222b24a6be685fa253deab24f9935aaeb75f69f
