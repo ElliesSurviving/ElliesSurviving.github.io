@@ -45,7 +45,7 @@ Version: 0.1
 Architecture: iphoneos-arm
 Maintainer: Ellie
 Depends: firmware (>= 12.0)
-Filename: https://github.com/elliessurviving/repofiles/blob/main/arm/cum.elliessurviving.test_0.1_iphoneos-arm.deb
+Filename: https://github.com/ElliesSurviving/repofiles/blob/main/arm/cum.elliessurviving.test_0.1_iphoneos-arm.deb
 Size: 792
 SHA1: 3bb14af8386fbb7e337cdeaa7c72d5689157f84f
 SHA256: 0f1cb37e5814f8a7d4dd774ce5e28d79226886b6d06113da65735e6469acba1e
