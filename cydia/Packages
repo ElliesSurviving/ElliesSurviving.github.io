@@ -27,28 +27,28 @@ Author: Ellie
 Name: iOS 9 Cellular Dots
 
 Package: cum.elliessurviving.ios9icons
-Version: 0.1
+Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Ellie
 Depends: firmware (>= 1.0)
-Filenane: ./pool/cum.elliessurviving.ios9icons_0.1_iphoneos-arm.deb
-Size: 283432
-SHA1: 12103cc419613f3cbd27ec4e3629d03e67fb643d
-SHA256: 5bf2613cacd48157f75d9055e60570441b7e7bc5eedc40185ad03482d9578005
+Filenane: ./pool/cum.elliessurviving.ios9icons_1.0_iphoneos-arm.deb
+Size: 283416
+SHA1: 92372b7852277e50bf12931c710486814e4cbcf9
+SHA256: 1afb4343e925f5a845beeac3b2972ad6f9291cdd7da107614d9302d8988da380
 Section: Themes
 Description: Snowboard theme with every icon from an iOS 9.3.2 ipsw filesystem dump!
 Author: Ellie
 Name: iOS 9 Icons
 
 Package: cum.elliessurviving.ios9icons
-Version: 0.1
+Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: Ellie
 Depends: firmware (>= 1.0)
-Filenane: ./pool/cum.elliessurviving.ios9icons_0.1_iphoneos-arm64.deb
-Size: 283456
-SHA1: 0a920764823253451659af6bf1ef2fbdfd1b1883
-SHA256: abfb7211897aa607ae16e4dacc9d1d28ba81adeaf7e8f6f1ba842cfceda625ba
+Filenane: ./pool/cum.elliessurviving.ios9icons_1.0_iphoneos-arm64.deb
+Size: 283440
+SHA1: 801741964c596898d816dd417452bc5cfc0e6be5
+SHA256: d191ac7a1590a5df1321b58a116cd5c8e7c26d13067a30e0791a7d59b5c61892
 Section: Themes
 Description: Snowboard theme with every icon from an iOS 9.3.2 ipsw filesystem dump!
 Author: Ellie
