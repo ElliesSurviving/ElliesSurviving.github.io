@@ -25,3 +25,31 @@ Section: Themes
 Description: (WARNING: This will overlap with your carrier text, my workaround is just to use Carrierizer2 and add some spaces to the beginning of the carrier text, blame iOS for limiting the UI or smth) Snowboard theme to add the iOS 9 cellular dots to later iOS versions. Requires Snowboard and Snowboard StatusBar Extension packages from the sparkdev.me repo.
 Author: Ellie
 Name: iOS 9 Cellular Dots
+
+Package: cum.elliessurviving.ios9icons
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: Ellie
+Depends: firmware (>= 1.0)
+Filenane: ./pool/cum.elliessurviving.ios9icons_0.1_iphoneos-arm.deb
+Size: 283432
+SHA1: 12103cc419613f3cbd27ec4e3629d03e67fb643d
+SHA256: 5bf2613cacd48157f75d9055e60570441b7e7bc5eedc40185ad03482d9578005
+Section: Themes
+Description: Snowboard theme with every icon from an iOS 9.3.2 ipsw filesystem dump!
+Author: Ellie
+Name: iOS 9 Icons
+
+Package: cum.elliessurviving.ios9icons
+Version: 0.1
+Architecture: iphoneos-arm64
+Maintainer: Ellie
+Depends: firmware (>= 1.0)
+Filenane: ./pool/cum.elliessurviving.ios9icons_0.1_iphoneos-arm64.deb
+Size: 283456
+SHA1: 0a920764823253451659af6bf1ef2fbdfd1b1883
+SHA256: abfb7211897aa607ae16e4dacc9d1d28ba81adeaf7e8f6f1ba842cfceda625ba
+Section: Themes
+Description: Snowboard theme with every icon from an iOS 9.3.2 ipsw filesystem dump!
+Author: Ellie
+Name: iOS 9 Icons
