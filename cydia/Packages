@@ -31,7 +31,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Ellie
 Depends: firmware (>= 1.0)
-Filenane: ./pool/cum.elliessurviving.ios9icons_1.0_iphoneos-arm.deb
+Filename: ./pool/cum.elliessurviving.ios9icons_1.0_iphoneos-arm.deb
 Size: 283416
 SHA1: 92372b7852277e50bf12931c710486814e4cbcf9
 SHA256: 1afb4343e925f5a845beeac3b2972ad6f9291cdd7da107614d9302d8988da380
@@ -45,7 +45,7 @@ Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: Ellie
 Depends: firmware (>= 1.0)
-Filenane: ./pool/cum.elliessurviving.ios9icons_1.0_iphoneos-arm64.deb
+Filename: ./pool/cum.elliessurviving.ios9icons_1.0_iphoneos-arm64.deb
 Size: 283440
 SHA1: 801741964c596898d816dd417452bc5cfc0e6be5
 SHA256: d191ac7a1590a5df1321b58a116cd5c8e7c26d13067a30e0791a7d59b5c61892
