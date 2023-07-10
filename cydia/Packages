@@ -51,5 +51,33 @@ SHA1: a1b3a13976d4dc122627fea9274a093d3d5a1adb
 SHA256: cb0226f35ca5b13cee0a7497ea4f26adea44aec66607014fdc4212932211ab91
 Section: Themes
 Description: Snowboard theme with every icon from an iOS 9.3.2 ipsw filesystem dump!
-Author: ElliesSurviving
+Author: ElliesSurviving 
 Name: iOS 9 Icons
+
+Package: cum.elliessurviving.cydiaremover
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: ElliesSurviving
+Depends: firmware (>= 1.0)
+Filename: ./pool/cum.elliessurviving.cydiaremover_1.0_iphoneos-arm64.deb
+Size: 1052
+SHA1:  74dffbc11aab7d23d8e5d2196cae1a3c3e2e202a
+SHA256: 344f36c71c6cef9a4766dae6cfd7a079cb23df4c561b89b02010ecf2ee5d04d6
+Section: Scripts
+Description: Package to remove Cydia on installation and reboots bcuz Cydia sucks! (This does force remove it and will mess up dpkg bcuz of it probably idk, use at ur own risk or smth)
+Author: ElliesSurviving
+Name: Cydia Remover
+
+Package: cum.elliessurviving.cydiaremover
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: ElliesSurviving
+Depends: firmware (>= 1.0)
+Filename: ./pool/cum.elliessurviving.cydiaremover_1.0_iphoneos-arm.deb
+Size: 1012
+SHA1:  4f2a39c8c5b95acf4bc69b7c087ff8d5daa94ca8
+SHA256: b88e28575958728030d8aa38d9a11532982e39e7afb1cd763dfdd80f8ec21e24
+Section: Scripts
+Description: Package to remove Cydia on installation and reboots bcuz Cydia sucks! (This does force remove it and will mess up dpkg bcuz of it probably idk, use at ur own risk or smth)
+Author: ElliesSurviving
+Name: Cydia Remover
