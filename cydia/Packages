@@ -13,6 +13,20 @@ Author: ElliesSurviving
 Name: iOS 9 Cellular Dots
 
 Package: cum.elliessurviving.cellulardots
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: ElliesSurviving
+Depends: firmware (>= 11.0)
+Filename: ./pool/cum.elliessurviving.cellulardots_2.0_iphoneos-arm64.deb
+Size: 13508
+SHA1: 80478cd3e4b3cfc2408918bc12acc1f4af34c560
+SHA256: 51c7001a0fc34963b12ff7d2af6a1aafc2b3715da751d058b6fc45707245aea6
+Section: Themes
+Description: (WARNING: This will overlap with your carrier text, my workaround is just to use Carrierizer2 and add some spaces to the beginning of the carrier text, blame iOS for limiting the UI or smth) Snowboard theme to add the iOS 9 cellular dots to later iOS versions. Requires Snowboard and Snowboard StatusBar Extension packages from the sparkdev.me repo. Select Regular iPhone for 5/5s/6/6s/7/8, select Plus iPhone for the Plus models.
+Author: ElliesSurviving
+Name: iOS 9 Cellular Dots
+
+Package: cum.elliessurviving.cellulardots
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: ElliesSurviving
@@ -23,6 +37,20 @@ SHA1: 9f287ae889330e9d8738387d44b1949dd087f03a
 SHA256: d37d9d6b19388f6eda42822a686070b433a7bc5addc4451c67037c671af857d8
 Section: Themes
 Description: (WARNING: This will overlap with your carrier text, my workaround is just to use Carrierizer2 and add some spaces to the beginning of the carrier text, blame iOS for limiting the UI or smth) Snowboard theme to add the iOS 9 cellular dots to later iOS versions. Requires Snowboard and Snowboard StatusBar Extension packages from the sparkdev.me repo.
+Author: ElliesSurviving
+Name: iOS 9 Cellular Dots
+
+Package: cum.elliessurviving.cellulardots
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: ElliesSurviving
+Depends: firmware (>= 11.0)
+Filename: ./pool/cum.elliessurviving.cellulardots_2.0_iphoneos-arm.deb
+Size: 13480
+SHA1: 8ec82e7a55dea81db73d1e262e9243dc537e4eb0
+SHA256: e313d076982bb2feec562d062b97c2b011d359cf6ffc3d9779802937853538fe
+Section: Themes
+Description: (WARNING: This will overlap with your carrier text, my workaround is just to use Carrierizer2 and add some spaces to the beginning of the carrier text, blame iOS for limiting the UI or smth) Snowboard theme to add the iOS 9 cellular dots to later iOS versions. Requires Snowboard and Snowboard StatusBar Extension packages from the sparkdev.me repo. Select Regular iPhone for 5/5s/6/6s/7/8, select Plus iPhone for the Plus models.
 Author: ElliesSurviving
 Name: iOS 9 Cellular Dots
 
