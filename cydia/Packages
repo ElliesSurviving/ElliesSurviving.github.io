@@ -109,3 +109,17 @@ Section: Scripts
 Description: Package to remove Cydia on installation and reboots bcuz Cydia sucks! (This does force remove it and will mess up dpkg bcuz of it probably idk, use at ur own risk or smth)
 Author: ElliesSurviving
 Name: Cydia Remover
+
+Package: cum.elliessurviving.arm64rootlessmoment
+Version: 0.1
+Architecture: iphoneos-arm64
+Maintainer: ElliesSurviving
+Depends: firmware (>= 15.0)
+Filename: ./pool/cum.elliessurviving.arm64rootlessmoment_0.1_iphoneos-arm64.deb
+Size: 876
+SHA1:
+SHA256:
+Section: Scripts
+Description: Fix most dependency issues from developers ignoring the fact arm64 rootless exists.
+Author: ElliesSurviving
+Name: all-in-one arm64 rootless dependencies
