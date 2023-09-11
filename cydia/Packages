@@ -117,8 +117,8 @@ Maintainer: ElliesSurviving
 Depends: firmware (>= 15.0)
 Filename: ./pool/cum.elliessurviving.arm64rootlessmoment_0.1_iphoneos-arm64.deb
 Size: 876
-SHA1:
-SHA256:
+SHA1: 3cb26b66acdeeff382ff26ddb234be34a287baad
+SHA256: 2e20c2df65d4efb7e57819686825e1ddcfe7ffbc7079975029cc353419553faa
 Section: Scripts
 Description: Fix most dependency issues from developers ignoring the fact arm64 rootless exists.
 Author: ElliesSurviving
