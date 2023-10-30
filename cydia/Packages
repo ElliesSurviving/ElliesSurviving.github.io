@@ -123,3 +123,45 @@ Section: Scripts
 Description: Fix most dependency issues from developers ignoring the fact arm64 rootless exists.
 Author: ElliesSurviving
 Name: all-in-one arm64 rootless dependencies
+
+Package: cum.elliessurviving.cydiaremover
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: ElliesSurviving
+Depends: firmware (>= 15.0)
+Filename: ./pool/cum.elliessurviving.cydiaremover_1.0_iphoneos-arm64e.deb
+Size: 1056
+SHA1: 9e4ccbc205ae68660a122ff05ed4cf83c9402139 
+SHA256: 69b755497f6fb5594b9b1e03ba1d89112367f0a4e95de77ed23b9d1f783a8b36
+Section: Scripts (RootHide)
+Description: Package to remove Cydia on installation and reboots bcuz Cydia sucks! (This does force remove it and will mess up dpkg bcuz of it probably idk, use at ur own risk or smth)
+Author: ElliesSurviving
+Name: Cydia Remover (RootHide)
+
+Package: cum.elliessurviving.ios9icons
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: ElliesSurviving
+Depends: firmware (>= 15.0)
+Filename: ./pool/cum.elliessurviving.ios9icons_1.0_iphoneos-arm64e.deb
+Size: 283460
+SHA1: 018ce1d0530e210f8769e72e7366ea0bb707729b
+SHA256: 5a38d37f411329d6a9814ab46d90607b964e4a6c4c2f67fa6a71dd016a625908
+Section: Themes (RootHide)
+Description: Snowboard theme with every icon from an iOS 9.3.2 ipsw filesystem dump!
+Author: ElliesSurviving 
+Name: iOS 9 Icons (RootHide)
+
+Package: cum.elliessurviving.cellulardots
+Version: 2.0
+Architecture: iphoneos-arm64e
+Maintainer: ElliesSurviving
+Depends: firmware (>= 15.0)
+Filename: ./pool/cum.elliessurviving.cellulardots_2.0_iphoneos-arm64e.deb
+Size: 13512
+SHA1: a1acfa3a736b65954c1417021193a0804862f22f
+SHA256: c86fdb365a6526f8405521983204393d14e1c299c12f1d9747cd4c3046d3c748
+Section: Themes (RootHide)
+Description: (WARNING: This will overlap with your carrier text, my workaround is just to use Carrierizer2 and add some spaces to the beginning of the carrier text, blame iOS for limiting the UI or smth) Snowboard theme to add the iOS 9 cellular dots to later iOS versions. Requires Snowboard and Snowboard StatusBar Extension packages from the sparkdev.me repo. Select Regular iPhone for 5/5s/6/6s/7/8, select Plus iPhone for the Plus models.
+Author: ElliesSurviving
+Name: iOS 9 Cellular Dots (RootHide)
