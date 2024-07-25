@@ -1,0 +1,33 @@
+Architectures: iphoneos-arm iphoneos-arm64
+Codename: ios
+Components: main
+Date: Thu, 25 Jul 2024 12:21:36 +0000
+Description: Sileo for Checkra1n and Unc0ver
+Label: Sileo
+Origin: Sileo
+Suite: stable
+Version: 2.0
+MD5Sum:
+ 4b6c1e0576b8f1ead8d84c45c76611f3             8381 Packages
+ 2e382cd6b3fee1bc8e48f394e74df232             3583 Packages.bz2
+ ff75c3f02bb0880c52015528def45d46             3444 Packages.xz
+ 6952097330ff41b864aa0d1a8245e856             3451 Packages.zst
+ 0b737be43ffcb1cfd1309383c3279e7c              211 Release
+SHA1:
+ f8668744b85266486ececdcdebffce786dc8f6b4             8381 Packages
+ f9cce9908a78df9cfacd9b865524e97b471321fb             3583 Packages.bz2
+ 272b6b77561d2bbef75f274b7648e3370f07704e             3444 Packages.xz
+ d413c7eba5499406fd3d6823a37fd2888f7d9a15             3451 Packages.zst
+ 50227e4edbb58a12eac32c3f29de4681b94ea128              211 Release
+SHA256:
+ cc8f90f1834751bf2903a6efaf2cbbc676e2cdd5c3f8456a024a84ff3ee04534             8381 Packages
+ ad08000de16fad4f66f707346ef94ddc3314f2749066086f6956510cd4fd4e66             3583 Packages.bz2
+ f29cd54bac226460a8fabc9b6d4b9fbff572b3d450a638cd91316a7b7e1b1b28             3444 Packages.xz
+ 024e29a8e2c4ea365f920088de46f9014198a884f7912ea5cbc54f5709e6d4c8             3451 Packages.zst
+ ebfc3c23f7cac6d5aba985abf238945603b5b2553bf4fcb871aca99e42947042              211 Release
+SHA512:
+ 438612eb8012eb88b6117d09b5656b85179ca07339ef726257524f29d8a9b60e4c405a46eedcf72bed7ecf1e81a10cabacc71621ead08a1394c016186e661fff             8381 Packages
+ d4a5c0c03e3fba0924f000fcde5c6d674fa0f1da66bb088b1f598e3d239912740528f8115117296ac092ccd306bc54a3cda8dbe1789fc6caa4de49428ed2a051             3583 Packages.bz2
+ b7fab1b081617f50ab062fbd4e00e8b1dcee411184c8c3bfa91656a7ec82dd4fdb68c341a5597e6abf14155df1d034fdbdeda38c401e5bd4622ff7756e5f76b3             3444 Packages.xz
+ b4059c737252aae66be091d77363a8b9ff4f4f37bd11c4c0d65752807c0329f7d030317001b3df325905c448124ec695a2ee82c065052b456ba5543211c5a76a             3451 Packages.zst
+ 472f2abaaec436b03804249673097346b45a9aa6dbc1a0dda44e1f958a25b62880aa8ecb09a7ad002021c32718313214cc0cc3a2ac055b9b136d3cb26b816bea              211 Release

@@ -1,0 +1,178 @@
+Package: cydia
+Architecture: iphoneos-arm64
+Version: 1.1.36-3
+Priority: important
+Section: Packaging
+Maintainer: Procursus Team <support@procurs.us>
+Installed-Size: 6144
+Provides: bigbossbetarepo, cydia-sources, cydia-lproj
+Pre-Depends: debianutils, dpkg (>= 1.16.1), firmware (>=12.0)
+Depends: bzip2, darwintools, debianutils, dpkg (>= 1.19.1), gzip, sed, shell-cmds, system-cmds, uikittools (>= 1.1.14), xz-utils, zstd, libiosexec1 (>= 1.3.1)
+Conflicts: bigboss, bigbossbetarepo, com.sosiphone.addcydia, cydia-sources, cydia-lproj, ispazio.net, modmyifone, ste, yellowsn0w.com, zodttd
+Replaces: bigboss, bigbossbetarepo, com.sosiphone.addcydia, cydia-sources, cydia-lproj, ispazio.net, modmyifone, saurik, ste, yellowsn0w.com, zodttd
+Filename: ./pool/broken_cydia_rl.deb
+Size: 1171976
+MD5sum: 722f818ab9cb203c3ac2acd9316bef68
+SHA1: 92fb556c91165cdd418bc5072500b241d56731ff
+SHA256: 9981949804eb91db8d06d6108f8849b5006415e0a955321bbe111be204c940ea
+SHA512: 59adf3628b6818ee938116a3dd80e95b56876de717226b3e9cf6b65bc6db1dc17bc9ceaeab4afe840a6cf917764120ffb9e3016d2eb3fac40024316218bda58d
+Description: graphical iPhone front-end for APT
+Tag: purpose::uikit, role::enduser
+Name: Cydia Installer
+Author: Jay Freeman (saurik) <saurik@saurik.com>
+Depiction: http://cydia.saurik.com/info/cydia/
+Icon: file:///Applications/Cydia.app/Icon-60.png
+
+Package: com.cannathea.afc2d-arm64
+Architecture: iphoneos-arm64
+Version: 1.2.0
+Section: System
+Maintainer: Cannathea <csupport@cannathea.com>
+Installed-Size: 172
+Provides: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: cy+cpu.arm64, mobilesubstrate, firmware (>= 11.0)
+Conflicts: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
+Replaces: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
+Filename: ./pool/com.cannathea.afc2d-arm64_1.2.0_iphoneos-arm64.deb
+Size: 15180
+MD5sum: 0973f7e310c8f8233ec309e9d274e388
+SHA1: 2ec0429adc9247cfc69c47c4aaa8f74459ec294a
+SHA256: c86df80312de9c06ebd21cf5dd72db3ca4b388edcfbc06d6a05e32b166b84a07
+SHA512: 2d0c832122dcf9d4fd6b88149aeb4ab4c67ab340103830f274730aaf45e8729400cc8a56aa43375991e0756200ccb22faa8b912c39cdce3e10d05e016156b17e
+Homepage: https://cannathea.com/
+Description: Allow full file-system access over USB for all arm64 devices, especially useful for those on iOS 11 and above. Please install ldid as it is required for use. (except for the XinaA15 jailbreak)
+Tag: purpose::daemon, role::enduser
+Name: Apple File Conduit "2" (iOS 11+, arm64)
+Author: saurik, Cannathea <csupport@cannathea.com>
+Depiction: https://cydia.akemi.ai/?page/com.cannathea.afc2d-arm64
+
+Package: com.opa334.altlist
+Architecture: iphoneos-arm64
+Version: 1.0.11
+Section: System
+Maintainer: opa334
+Installed-Size: 340
+Depends: firmware (>=7.0)
+Filename: ./pool/com.opa334.altlist_1.0.11_iphoneos-arm64.deb
+Size: 26884
+MD5sum: 1874e0da98f00417adab6dee7134f77c
+SHA1: 78b40438355e042de1ef082fcd9add718f7e1ec4
+SHA256: 5835a6b0eacd5d99d272b3f74a744b28b1c4c16ada03aade36d0a636bca5e1f0
+SHA512: e33f68a951d6c3b966c8d8b3a03774802613b6b7dba35f01415e2fcbe55f3c8c4e98f285c5fd1b35ba56a0138d651e98ba3bde26c847e6148cfc4502740c681a
+Description: A modern AppList alternative
+Tag: role::developer
+Name: AltList
+Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=altlistDp
+Author: opa334
+
+Package: com.opa334.choicy
+Architecture: iphoneos-arm64
+Version: 1.4.10-3
+Section: Tweaks
+Maintainer: opa334 <opa334@protonmail.com>
+Installed-Size: 884
+Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
+Filename: ./pool/com.opa334.choicy_1.4.10-3_iphoneos-arm64.deb
+Size: 104702
+MD5sum: f93895c1e4cd1022da50a49bf615e31b
+SHA1: 7a3d4fa057ee888543853be6aa2c88da845f353e
+SHA256: 66a503737a9e0b14d7050d6f91ce82ebc7bcc44ff5eabac28f01ca4d8663471e
+SHA512: 0fc743624626432d936347eea93a3207fb69b43daea289de74b84cbe38e12f2ef0c8429588ed06e81593f7cb40410288a7d49e885b6c9a9cc7f2a965f359f33c
+Description: Advanced Tweak Configuration!
+Name: Choicy
+Depiction: https://opa334.github.io/depic/Choicy/index.html
+Author: opa334 <opa334@protonmail.com>
+
+Package: com.parrotgeek.nobetaalert
+Architecture: iphoneos-arm64
+Version: 1.4.3
+Section: Tweaks
+Maintainer: Ethan Nelson-Moore
+Installed-Size: 200
+Depends: mobilesubstrate, firmware (>= 9)
+Filename: ./pool/com.parrotgeek.nobetaalert_1.4.3_iphoneos-arm64.deb
+Size: 3600
+MD5sum: 5854b671fd07b64f2e1067d499e25ff0
+SHA1: 9d8071deb63f81d6fe01f3ae3bf4557d98218ab6
+SHA256: 6dcfaa4c2560c4b6bee02311f9811b22dce9de700d212654f13a202a15d242ca
+SHA512: 8ad97c8dfbe63be76723bf51c9fca4c79da890cef1b6bc1f55d1ba366769be7642ff95958051833da20907d31438fe51994bb3d744dedcd392da5671d399d347
+Description: Hide "Please update from the iOS beta" alert (iOS 9-13.x)
+Name: NoBetaAlert
+Author: Ethan Nelson-Moore
+
+Package: com.ps.letmeblock
+Architecture: iphoneos-arm64
+Version: 9.9.9-wintersdopamine
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 200
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 9.0)
+Filename: ./pool/com.ps.letmeblock_9.9.9-wintersdopamine_iphoneos-arm64.deb
+Size: 6644
+MD5sum: 7d45f83fc2c0489ce8609e9aa8e380a1
+SHA1: 1a8e8b82d7fa057c4f0d05dff4ba3df5d4800122
+SHA256: 1173ea17968c3d8b76e96a5937e66d75157a6bb0fb6a4f223870c567a35f6c76
+SHA512: 64e6afe35a9265f2fa80758f4916f3bf1d6108f5ad9c5ecbd8f31233502091f2d640714a83ebc574448dde2a5a4f1b0d3e57de5c707fd44bfb53cc72f35b79f9
+Description: Make mDNSResponder care more about /etc/hosts
+Name: LetMeBlock
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/letmeblock.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/letmeblock.json
+
+Package: ellekit
+Architecture: iphoneos-arm64
+Version: 1.1.3
+Priority: optional
+Section: Tweak Injection
+Maintainer: Dhinak G <dhinak@dhinak.net>
+Provides: mobilesubstrate (= 99), org.coolstar.libhooker (= 1.6.9)
+Conflicts: com.ex.substitute, org.coolstar.libhooker, science.xnu.substitute, mobilesubstrate, com.saurik.substrate.safemode
+Replaces: com.ex.libsubstitute, org.coolstar.libhooker, mobilesubstrate
+Filename: ./pool/ellekit_1.1.3_iphoneos-arm64.deb
+Size: 352628
+MD5sum: 600b4ddef6bd75c95ae868a7fed95c24
+SHA1: 7559bc0b8107dec16f3ed702bb5aa467a42f0552
+SHA256: b6fa34a45629f1eba602678d3322ad06d077b52e015223f99a989883652b277b
+SHA512: 0f8e4c6d1deebc23afeed44bbb94c9fadcac0cab5ff1cb186d39f795f58e62699598663fb700b5a765d9d5ea0c4b612f6e1148e9571653abadb25d2ffc4db974
+Description: ElleKit tweak injection libraries and loader
+Name: ElleKit
+Author: Evelyn
+Icon: https://ellekit.space/logos/logo.png
+
+Package: org.coolstar.libhooker-configurator
+Architecture: iphoneos-arm64
+Version: 1.4
+Priority: required
+Section: Packaging
+Maintainer: CoolStar <coolstarorganization@gmail.com>
+Depends: firmware (>= 12.0)
+Filename: ./pool/org.coolstar.libhooker-configurator_1.4_iphoneos-arm64.deb
+Size: 269192
+MD5sum: df6aeb3745cfe2a377b91b5cdde00129
+SHA1: 03e84856a86a4fd3ca945478df36b69666846ca7
+SHA256: 9b17271ae36fb1bbca60795715c49406a55e2ab99a7c4da0d46cbcf32c0bc6ef
+SHA512: d69d96d0bd58e0b01652cab1be2c61040442fc2d8fcf1a2937ae0e3675e42b657137d15620cecafecc699e8571b0ce071e13f78cf403ccddcf63c097f1f8fe81
+Description: Configuration Utility for libhooker
+Icon: https://repo.theodyssey.dev/depictions/icons/libhooker.png
+SileoDepiction: https://repo.theodyssey.dev/depictions/json/libhooker-configurator.json
+Name: libhooker configurator
+Author: CoolStar <coolstarorganization@gmail.com>
+
+Package: preferenceloader
+Architecture: iphoneos-arm64
+Version: 2.2.7
+Section: System
+Maintainer: Dhinak G <dhinak@dhinak.net>
+Installed-Size: 370
+Depends: mobilesubstrate
+Filename: ./pool/preferenceloader_2.2.7_iphoneos-arm64.deb
+Size: 17504
+MD5sum: 239c02b0191590a66fd70571717b736b
+SHA1: 3bfd32ead55227d4302fadb0e00292fbd0492059
+SHA256: f62d865fff12c5c6b9c5a90a2d6cef6e36b34ce4f77911c98bd30b413608c33e
+SHA512: 925198806fc0f5f2594b4c97f38188328547780934d2d536d4aaef2057cac6628ab451d243eb797ad34a04741d1495965a6cd6856079f6ed0160345eeefa3468
+Description: load preferences in style
+Author: Dhinak G <dhinak@dhinak.net>
+Name: PreferenceLoader
+
