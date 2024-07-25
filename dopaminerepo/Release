@@ -1,9 +1,33 @@
 Architectures: iphoneos-arm64
 Codename: ios
 Components: main
-Date: Thu, 25 Jul 2024 12:21:36 +0000
+Date: Thu, 25 Jul 2024 12:47:28 +0000
 Description: Repo for Dopamine-Winters Jailbreak
 Label: Dopamine-Winters Repo
 Origin: Dopamine-Winters Repo
 Suite: stable
 Version: 1.0
+MD5Sum:
+ 6bcf510d79be75612c50635084585dd7            11824 Packages
+ caedeb2877709e2e3c3f65a0ac3b5589             4799 Packages.bz2
+ 4a0470df30a8f25768e0320960a0ad94             4612 Packages.xz
+ 4007c8a9704a1e0cece60f9fce401087             4672 Packages.zst
+ 3f3f9e07320fae19ea5b9c78a4d5b662              234 Release
+SHA1:
+ 900527469cfaead31c6828c4bc4c9f2e636e03ba            11824 Packages
+ 8ede5d3137160f7bc2b75d061196dfb7747d4955             4799 Packages.bz2
+ 01a8e871e3a194f99b3e84642df0e10492eeb674             4612 Packages.xz
+ 3e497b4319865e34649c1edfd4979c2a6b1f2670             4672 Packages.zst
+ 4ad8d26c13aca64eefe2d2e61d8ec030bc788e97              234 Release
+SHA256:
+ 4a94876f210b8b7d874b16adb5702507690aa20a0d4b01f9759c1cc1af45d30c            11824 Packages
+ 29180956ea8deb30ef091499fd386fdf6a62c247ba7340f97efcb8ebcb5f9216             4799 Packages.bz2
+ 181b7de487ffbbf203650099921e42864ce87d3c7a155e8c8e285787cdca574b             4612 Packages.xz
+ 3cc545acc4c020b2745d5c2e5a9f1e3cc8c049e0e16de1c144b04a43f377b524             4672 Packages.zst
+ 01a12ec177671c0f4ece2a5fd821cb436fd182b51520ef5e6ae561ece9c226fb              234 Release
+SHA512:
+ 960e3f76f12d81af357448c2067c38161e5b45b77c62985f8c9252e57995279583658d9ec8a8d90b214677ec14a80e6b5ab79e0c6caa057fc7a61b815918200d            11824 Packages
+ 549970a13d2cafa3109da536e76d9053edab26c7def3991b8113eae07407088cbb0121452604c5e484992986c7fd717af8d1a451e412cf6e926908c9ae6c5934             4799 Packages.bz2
+ cef81396195273cc1a91dda19a1415e5996a8d6dcf57f1bb0ac4f7a031e5e2b4e7057a288218cecf982fb0edbedd66648272e3af091b7f2a33f0ee7f73ed3da9             4612 Packages.xz
+ a38367bb58e5dac66c5bb17807a25ccb47ff9dd5aac4f2e7d1d7ffb925185e38829f35060495f97bfb8952fb1bd58cc3c53b49dd1a32e3ea1766d063990827cb             4672 Packages.zst
+ 74969f0db66102bef03a535ed518e2bb6320010d31f4880654e422675e0c2c8873ca5ad719a5f8be9b0105b227fc45220bc7e1848c2a8fcb7ec304bab7399a8c              234 Release

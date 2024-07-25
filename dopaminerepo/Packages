@@ -140,6 +140,26 @@ Name: ElleKit
 Author: Evelyn
 Icon: https://ellekit.space/logos/logo.png
 
+Package: oldabi-stub
+Architecture: iphoneos-arm64
+Version: 0.3
+Section: System
+Maintainer: alexia <me@alexia.lol>
+Installed-Size: 0
+Provides: oldabi (= 0.3)
+Filename: ./pool/oldabi-stub_0.3_iphoneos-arm64.deb
+Size: 686
+MD5sum: 65a5590f0a2b05cf9075a4ff4b465cae
+SHA1: 7da46cd2bcb4efaa9b4ed1bb00313168eac5b1fb
+SHA256: 8ea02fc8b881752d70b5cc40c2cc52eca22d62063d7eeba2b033343ad5906e47
+SHA512: 1f737025b6f8823d6ec482246fcd6dca8433199b1fb0298737d65936c5823136151db3dc4181704b222767c57fb0deb8369c37cd0e6d1aa6367d6897ac1284e1
+Description: oldabi stub for arm64
+ .
+ This package does nothing, it just provides a stub for oldabi on arm64 to be able to install tweaks with broken dependencies.
+Tag: role::hacker
+Name: oldabi-stub
+Author: alexia <me@alexia.lol>
+
 Package: org.coolstar.libhooker-configurator
 Architecture: iphoneos-arm64
 Version: 1.4
@@ -159,6 +179,42 @@ SileoDepiction: https://repo.theodyssey.dev/depictions/json/libhooker-configurat
 Name: libhooker configurator
 Author: CoolStar <coolstarorganization@gmail.com>
 
+Package: org.coolstar.sileo
+Architecture: iphoneos-arm64
+Version: 2.5
+Section: Packaging
+Maintainer: Amy While <me@anamy.gay>
+Depends: firmware (>= 11.0), firmware(>=12.2) | org.swift.libswift (>=5.0), coreutils (>= 8.30-1), dpkg (>= 1.19.4-1), apt (>= 1.8.2), libzstd1
+Filename: ./pool/org.coolstar.sileo_2.5_iphoneos-arm64.deb
+Size: 2894788
+MD5sum: b774f1ae1f7081b32535dae6d235d2bc
+SHA1: 1f044b46fb27cde10403b84122e8820e8f95a718
+SHA256: 1b8fc661726bcd39b487caffc7a5661bb112ff9fad9de549bc8b97de93a3b0d4
+SHA512: b55d44f1aaa8454c4584eaca1f26d986e2f4793b39b212a89e00283d369b1c733c29ba1a49ba885ef18b8a3000735294648d447f1b165d9b63f97d21c86c6fd5
+Description: A modern APT package manager frontend
+Name: Sileo
+Author: Amy While <me@anamy.gay>
+Icon: https://getsileo.app/img/icon.png
+SileoDepiction: https://featuredpage.getsileo.app/depiction.json
+
+Package: org.coolstar.sileonightly
+Architecture: iphoneos-arm64
+Version: 2.5+20230608.1686249632.eece58a
+Section: Packaging
+Maintainer: Amy While <me@anamy.gay>
+Depends: firmware (>= 11.0), firmware(>=12.2) | org.swift.libswift (>=5.0), coreutils (>= 8.30-1), dpkg (>= 1.19.4-1), apt (>= 1.8.2), libzstd1
+Filename: ./pool/org.coolstar.sileonightly_2.5+20230608.1686249632.eece58a_iphoneos-arm64.deb
+Size: 2895244
+MD5sum: 3842d9651fac9e9389862da0a2eb2b72
+SHA1: a2883fe5c8b416280b1da651fdaca0e6ad80d01d
+SHA256: 134ac93dcc677bd2935f98d4e159ea7ca5a60ba2976f0800ae104cfdf9ba9f6b
+SHA512: c7e0ec54f3bd8bc6fdfac72d4c96d1cd04ce4ed713546277051eabca8e48ee93854c85de4589afa6e0b984e83d5521497028f68e2e1e872b607a7cc553e9afb7
+Description: A modern APT package manager frontend
+Name: Sileo (Nightly Channel)
+Author: Amy While <me@anamy.gay>
+Icon: https://github.com/Sileo/Sileo/raw/stable/Icons/Nightly/Nightly_iOS.png
+SileoDepiction: https://featuredpage.getsileo.app/depiction.json
+
 Package: preferenceloader
 Architecture: iphoneos-arm64
 Version: 2.2.7
@@ -175,4 +231,25 @@ SHA512: 925198806fc0f5f2594b4c97f38188328547780934d2d536d4aaef2057cac6628ab451d2
 Description: load preferences in style
 Author: Dhinak G <dhinak@dhinak.net>
 Name: PreferenceLoader
+
+Package: xyz.willy.zebra
+Architecture: iphoneos-arm64
+Version: 1.1.36
+Section: Packaging
+Maintainer: Zebra Team <team@getzbra.com>
+Installed-Size: 6992
+Depends: dpkg, uikittools, firmware (>= 9.0)
+Filename: ./pool/xyz.willy.zebra_1.1.36_iphoneos-arm64.deb
+Size: 3616770
+MD5sum: c1c8b8e34c2c487e3cdc0777e56d75c3
+SHA1: f523952806f971e44420114cef818a6c0554551f
+SHA256: 91900ce44684a2b163b0f887609fff95e3296f58d35b82a83ebb351d46b01052
+SHA512: ec0b3b2bcb87a96ce70b204c071c3be415ccd4a3899ef7b6e482ab04db18a22dfeb22106feeabe7a78d08f2136bf3cc6a5e9a1a2be88086e70a6b5e3b0058854
+Description: A Useful Package Manager
+Tag: compatible::9.0-16.6
+Name: Zebra
+Author: Zebra Team <team@getzbra.com>
+Icon: file:///Applications/Zebra.app/AppIcon60x60@3x.png
+Depiction: https://getzbra.com/repo/depictions/xyz.willy.Zebra/
+Support: https://getzbra.com/repo/depictions/xyz.willy.Zebra/bug_report.html
 
