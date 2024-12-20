@@ -3,7 +3,7 @@ Version: 7.1.0
 Architecture: iphoneos-arm
 Maintainer: Ellie Winters (ElliesSurviving)
 Depends: gawk
-Filename: ./pool/neofetch_7.1.0.deb
+Filename: ./pool/neofetch-7.1.0.deb
 Size: 91852
 SHA1: 92d58e7cd4015ef244225a803a475c71b2eda065
 SHA256: 227b88875b454a96aa2ab25825a08668778d7a094ce12e20a4b8edb3b10e9091
