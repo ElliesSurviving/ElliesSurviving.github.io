@@ -1,8 +1,0 @@
-Origin: Ellie's Cydia Proxy Repo
-Label: Ellie's Cydia Proxy Repo
-Suite: stable
-Version: 1.0
-Codename: ios
-Architectures: iphoneos-arm64 iphoneos-arm
-Components: main
-Description: Ellie's Cydia Proxy Repo
