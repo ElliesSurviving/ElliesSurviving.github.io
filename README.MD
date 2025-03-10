@@ -1,0 +1,1 @@
+This repo is just basically a mirror of https://thewintersgirls.neocities.org now, purely as Netscape Navigator and Internet Explorer refuse to load neocities. The only exception is our cydia repos are staying up and nothing is changing with those.
